@@ -11,7 +11,7 @@ function diagonalDifference() {
     */
     var arr = [ [1, 2, 3],
                 [4, 5, 6],
-                [7, 8, 9] ];
+                [9, 8, 9] ];
     let firstDiag = 0;
     let lastDiag = 0;
 
